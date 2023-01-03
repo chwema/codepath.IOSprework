@@ -4,7 +4,7 @@
 A helpful introduction app for college students. A student may add information regarding themselves, their pets, their major, their GPA, their class classification, etc.
 
 ### App Walk-though
-<img src="" width=200><br>
+<img src="https://github.com/chwema/codepath.IOSprework/blob/d699af62b2dd75869a6a075808b223da998bed30/IOS102_prework.gif" width=200><br>
 
 ### Required Features
 
