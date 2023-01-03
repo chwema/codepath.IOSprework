@@ -1,6 +1,6 @@
 ## Introduce Student App
 
-###App Description
+### App Description
 A helpful introduction app for college students. A student may add information regarding themselves, their pets, their major, their GPA, their class classification, etc.
 
 ### App Walk-though
